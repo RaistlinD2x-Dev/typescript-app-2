@@ -1,0 +1,24 @@
+{
+  "name": "typescript-app-2",
+  "version": "1.0.0",
+  "description": "sorting algorithm in node with tsc Check, check... mic check 1...2...3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaistlinD2x-Dev/typescript-app-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaistlinD2x-Dev/typescript-app-2/issues"
+  },
+  "homepage": "https://github.com/RaistlinD2x-Dev/typescript-app-2#readme",
+  "dependencies": {
+    "concurrently": "^6.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
